@@ -1,0 +1,6 @@
+@SgPortfolio.Api_HostAddress = http://localhost:5027
+
+GET {{SgPortfolio.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
