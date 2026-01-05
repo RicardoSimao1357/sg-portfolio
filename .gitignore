@@ -1,0 +1,39 @@
+# ======================
+# .NET / Visual Studio
+# ======================
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# ======================
+# Node / React
+# ======================
+node_modules/
+dist/
+.vite/
+
+# ======================
+# Logs
+# ======================
+*.log
+
+# ======================
+# Environment / secrets
+# ======================
+.env
+appsettings.*.json
+!appsettings.json
+!appsettings.Development.json
+
+# ======================
+# OS files
+# ======================
+.DS_Store
+Thumbs.db
